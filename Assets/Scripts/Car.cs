@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-
+//test
 public class Car : MonoBehaviour
 {
     public Text Life;             // Ссылка на текст Life 
